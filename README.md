@@ -1,36 +1,39 @@
-# ENERGUARD
-An AI-powered smart electricity management system that monitors real-time household consumption. Using IoT sensors and AI analytics, it sends alerts when usage increases, predicts possible bill costs, and automatically turns off lights, fans, or ACs in empty rooms to ensure energy efficiency and cost savings.
+# SUNSMART HOMES
+A smart construction project introducing advanced smart homes in Egypt. These houses integrate modern smart features with solar panels that store energy to power the entire home, reducing reliance on the national electricity grid and lowering electricity bills.
 
 # Project Idea
-A national AI-powered electricity consumption management system designed to reduce energy waste, control bills, and support sustainable power usage.
+A construction initiative to market and build smart homes equipped with advanced features not yet available in Egypt.  
+Each home is topped with solar panels that store and supply energy, allowing residents to power their homes independently, reducing pressure on the national grid, and lowering monthly electricity costs.
+
 The system integrates:
 
-1- Mobile app for households to monitor consumption and receive alerts.
+1- Smart home features to enhance comfort, security, and efficiency.
 
-2- IoT device connected to the electricity meter to track real-time usage.
+2- Solar panel systems to generate and store electricity.
 
-3- AI algorithms to analyze patterns, predict bill increases, and send notifications.
+3- Automated energy management for optimal usage of stored solar power.
 
-4- Smart sensors in homes to detect empty rooms and automatically switch off lights, fans, or ACs.
+4- Mobile app integration to monitor home energy usage and savings.
 
-5- Integration with national electricity systems to support efficient energy management.
+5- Sustainable construction practices aligned with Egypt’s energy-saving goals.
 
-By combining AI, IoT, and Big Data, the project helps citizens reduce unnecessary electricity consumption, cut costs, and contribute to solving Egypt’s energy crisis.
+By combining smart home technology with renewable energy, the project offers a modern, eco-friendly, and cost-saving housing solution for Egypt.
 
 # Project Target
-1- Rationalize electricity consumption and save energy for the state.
+1- Introduce smart home technology with advanced features to the Egyptian market.  
 
-2- Help citizens monitor and control their electricity bills.
+2- Reduce dependence on the national electricity grid through solar energy.  
 
-3- Send real-time alerts when consumption increases.
+3- Help residents lower their electricity bills with renewable power.  
 
-4- Automatically reduce waste by turning off unused appliances in empty rooms.
+4- Support the government’s efforts in solving the energy crisis.  
 
-5- Support national efforts in solving the electricity crisis and ensuring sustainable usage.
+5- Promote sustainable and eco-friendly construction in Egypt.  
 
-6- Build a centralized database for electricity consumption monitoring.
+6- Build modern, future-ready communities powered by clean energy.  
 
 # Team Members
+
 1- Rana Nasser
 
 2- abdelrahman Seif
@@ -42,3 +45,4 @@ By combining AI, IoT, and Big Data, the project helps citizens reduce unnecessar
 5- Hagar hmady
 
 6- Abdel Maguid
+el Maguid
