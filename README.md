@@ -172,6 +172,3 @@ The project is based on designing and building **smart residential cities** feat
 
 
 
-
-6- Abdel Maguid
-el Maguid
